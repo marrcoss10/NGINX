@@ -1,0 +1,9 @@
+services:
+        servidor-web:
+                image: marcos-img 
+                container_name: servidor-nginx
+                ports:
+                        - 8800:80
+        script:
+                image: marcos-app
+                container_name: app-cliente

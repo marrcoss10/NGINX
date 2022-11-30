@@ -1,0 +1,45 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.numeros h4{
+    font-size: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.info1{
+    width: 100%;
+    background:none;
+    padding: 10px;
+    border-radius: 4px;
+    margin: auto;
+    border: none;
+    font-family: 'calibri';
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+.coger{
+    font-style: italic;
+    margin-left: 10px;
+}
+
+.numeros{
+    width: 100%;
+    background:  #24303c;
+    border: none;
+    padding: 16px;
+    color: white;
+    margin-top: 300px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    text-align: center;
+}
